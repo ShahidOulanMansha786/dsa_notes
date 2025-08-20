@@ -165,9 +165,11 @@ jab heap ko delete ma koi elment ko delete karna ki baat hoti hai tu hummm hames
 
 jo last pa element ho ga ussaa top ka element sa overwrite karwaa da ga
 
-or phir uss ka childs ko compare karwayee ga ka kon sa baraa hai or agaar wo parent sa baraa ho ga tu unn dono ko swap karwaa da ga, or yaa humm karta raha ga jab tak parent child sa baraa nahi ho jataa yaa phir index 
+or phir uss ka childs ko compare karwayee ga ka kon sa baraa hai or agaar wo parent sa baraa ho ga tu unn dono ko swap karwaa da ga
 
-last element sa iss waja sa replace karwaa raha hai kio ka agaar kahi or sa karwayee ga tu tree complete binary tree nahi rahaa ga.
+hamaraa pass 3 values parent or 2 child hai or unnn ma sa check karna hai ka kon sa baraa hai, humm maximum (variable) ma parent ka index rakhwaa da ga 
+
+> last element sa iss waja sa replace karwaa raha hai kio ka agaar kahi or sa karwayee ga tu tree complete binary tree nahi rahaa ga.
 
 
 
